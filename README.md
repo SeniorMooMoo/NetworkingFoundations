@@ -18,7 +18,7 @@ Each project demonstrates foundational skills in routing, switching, and network
 
 This section showcases my foundational skills in building network topologies, configuring basic device settings, and understanding IP addressing.
 
-- **Basic Device Connectivity**: A foundational lab demonstrating how to connect routers, switches, and PCs to form a simple network topology. [[Link to file]](network-fundamentals/Day%2002%20Lab%20-%20Connecting%20Devices.pkt)
+- **Basic Device Connectivity**: A foundational lab demonstrating how to connect routers, switches, and PCs to form a simple network topology. [[Link to file]](network-fundamentals/connecting-devices-lab/README.md/)
 
 ***
 
