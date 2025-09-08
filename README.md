@@ -36,6 +36,7 @@ This section focuses on my ability to configure and troubleshoot LAN switching p
 
 This section demonstrates my skills in configuring and troubleshooting IP routing protocols and paths.
 
+- **Configuring IP Addresses**: This lab showcases the configuration of a router's interfaces to switches as well as configuring the static IPs of clients connected to those switches. [[Link to file]](ip-connectivity/configuring-ip-addresses-lab/README.md)
 
 
 ***
