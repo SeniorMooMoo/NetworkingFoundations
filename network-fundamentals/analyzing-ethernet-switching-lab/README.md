@@ -34,7 +34,7 @@ As shown in the screenshot, the ping goes through the network to PC3, PC3 then s
 After pinging PC4 from PC2, we will now inspect the MAC address table of SW1 and SW2 to show all MAC address of all PCs in the network.
 
 Switch1
-![MAC Table SW1](analyzing-ethernet-swithing-ss6.png)
+![MAC Table SW1](analyzing-ethernet-switching-ss6.png)
 Switch2
 ![MAC Table SW2](analyzing-ethernet-switching-ss7.png)
 
