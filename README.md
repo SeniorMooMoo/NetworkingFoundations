@@ -38,6 +38,7 @@ This section demonstrates my skills in configuring and troubleshooting IP routin
 
 - **Configuring IP Addresses**: This lab showcases the configuration of a router's interfaces to switches as well as configuring the static IPs of clients connected to those switches. [[Link to file]](ip-connectivity/configuring-ip-addresses-lab/README.md)
 
+- **Configuring Interfaces**: Configuring the interfaces of all switches and routers in a LAN as well as the IP addresses for all end hosts. The goal is to use best practice and disable all unused interfaces in switches and give meaningful descriptions to each connected interface. [[Link to file]](ip-connectivity/configuring-interfaces-lab/README.md)
 
 ***
 
