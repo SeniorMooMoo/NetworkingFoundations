@@ -20,6 +20,8 @@ This section showcases my foundational skills in building network topologies, co
 
 - **Basic Device Connectivity**: A foundational lab demonstrating how to connect routers, switches, and PCs to form a simple network topology. [[Link to file]](network-fundamentals/connecting-devices-lab/README.md/)
 
+- **OSI Model**: This lab showcases PDU information in different devices as data gets transferred through the network. [[Link to file]](network-fundamentals/osi-model-lab/README.md/)
+
 ***
 
 ### LAN Switching Technologies
