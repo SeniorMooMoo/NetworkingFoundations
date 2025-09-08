@@ -24,6 +24,8 @@ This section showcases my foundational skills in building network topologies, co
 
 - **Basic Device Security**: Dives into the CLI of some Cisco routers and switches and showcases how to add an unencrypted password, type 7 encrypted password, and MD5 encrypted password. [[Link to file]](network-fundamentals/basic-device-security-lab/README.md/)
 
+- **Analyzing Ethernet Switching**: Using the 'ping' command, we can see how switches dynamically learn MAC addresses when their MAC address and ARP tables are completely empty. [[Link to file]](network-fundamentals/analyzing-ethernet-switching-lab/README.md/)
+
 ***
 
 ### LAN Switching Technologies
