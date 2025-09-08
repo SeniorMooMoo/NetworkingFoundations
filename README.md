@@ -22,16 +22,13 @@ This section showcases my foundational skills in building network topologies, co
 
 - **OSI Model**: This lab showcases PDU information in different devices as data gets transferred through the network. [[Link to file]](network-fundamentals/osi-model-lab/README.md/)
 
-- **Basic Device Security**: Dives into the CLI of some Cisco routers and switches and showcases how to add an unencrypted password, type 7 encrypted password, and MD5 encrypted password. [[Link to file]](network-fundamentals/basic-device-security-lab/README.md/)
-
-- **Analyzing Ethernet Switching**: Using the 'ping' command, we can see how switches dynamically learn MAC addresses when their MAC address and ARP tables are completely empty. [[Link to file]](network-fundamentals/analyzing-ethernet-switching-lab/README.md/)
-
 ***
 
 ### LAN Switching Technologies
 
 This section focuses on my ability to configure and troubleshoot LAN switching protocols and features.
 
+- **Analyzing Ethernet Switching**: Using the 'ping' command, we can see how switches dynamically learn MAC addresses when their MAC address and ARP tables are completely empty. [[Link to file]](lan-switching/analyzing-ethernet-switching-lab/README.md/)
 
 ***
 
@@ -55,6 +52,7 @@ This section highlights my ability to configure essential network services.
 
 This section showcases my practical knowledge of network security principles and device hardening.
 
+- **Basic Device Security**: Dives into the CLI of some Cisco routers and switches and showcases how to add an unencrypted password, type 7 encrypted password, and MD5 encrypted password. [[Link to file]](security-fundamentals/basic-device-security-lab/README.md/)
 
 
 ***
