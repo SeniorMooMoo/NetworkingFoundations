@@ -48,6 +48,7 @@ This section highlights my ability to route throughout a network.
 
 - **Configuring Static Routes**: The goal of this lab is to have a network that is not configured at all. We are to establish a connection betweeen two PCs across the network on opposite sides. [[Link to file]](routing/configuring-static-routes-lab/README.md)
 
+- **Troubleshooting Static Routes**: There are 1 misconfiguration(s) on each router in this lab. Our goal is to go into the CLI and use our skills to find and fix the misconfigurations. By the end of the lab, I will have fixed all of the misconfigurations and PC1 will be able to ping PC2. [[Link to file]](routing/troubleshooting-static-routes-lab/README.md)
 
 ***
 ### IP Services
