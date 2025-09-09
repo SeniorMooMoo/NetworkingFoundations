@@ -11,6 +11,7 @@ Each project demonstrates foundational skills in routing, switching, and network
 - [IP Services](#ip-services)
 - [Security Fundamentals](#security-fundamentals)
 - [Automation and Programmability](#automation-and-programmability)
+- [Routing](#routing)
 
 ***
 
@@ -41,7 +42,14 @@ This section demonstrates my skills in configuring and troubleshooting IP routin
 - **Configuring Interfaces**: Configuring the interfaces of all switches and routers in a LAN as well as the IP addresses for all end hosts. The goal is to use best practice and disable all unused interfaces in switches and give meaningful descriptions to each connected interface. [[Link to file]](ip-connectivity/configuring-interfaces-lab/README.md)
 
 ***
+### Routing
 
+This section highlights my ability to route throughout a network.
+
+- **Configuring Static Routes**: The goal of this lab is to have a network that is not configured at all. We are to establish a connection betweeen two PCs across the network on opposite sides. [[Link to file]](routing/configuring-static-routes-lab/README.md)
+
+
+***
 ### IP Services
 
 This section highlights my ability to configure essential network services.
