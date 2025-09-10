@@ -41,6 +41,8 @@ This section demonstrates my skills in configuring and troubleshooting IP routin
 
 - **Configuring Interfaces**: Configuring the interfaces of all switches and routers in a LAN as well as the IP addresses for all end hosts. The goal is to use best practice and disable all unused interfaces in switches and give meaningful descriptions to each connected interface. [[Link to file]](ip-connectivity/configuring-interfaces-lab/README.md)
 
+- **Life of a Packet**: Using CLI and Packet Tracer's simulation mode, we trace how a packet moves through a network. I verified the source / destination MAC addresses at each specified point during the packet's route. The goal was to see how the ethernet frame gets encapsulated and de-encapsulated during the route of a ping. [[Link to file]](ip-connectivity/life-of-a-packet-lab/README.md)
+
 ***
 ### Routing
 
