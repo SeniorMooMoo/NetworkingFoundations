@@ -33,6 +33,8 @@ This section focuses on my ability to configure and troubleshoot LAN switching p
 
 - **Analyzing Ethernet Switching**: Using the 'ping' command, we can see how switches dynamically learn MAC addresses when their MAC address and ARP tables are completely empty. [[Link to file]](lan-switching/analyzing-ethernet-switching-lab/README.md/)
 
+- **VLANs Lab**: In this lab, we are introduced to VLANs. We are using access ports (not trunk ports) in this lab. An access port belongs to a single VLAN. Upon configuring the network for all 3 VLANs, we should have connectivity across the network and our router doing all of our inter-VLAN routing. [[Link to file]](lan-switching/vlans-lab/README.md/)
+
 ***
 
 ### IP Connectivity
