@@ -23,6 +23,8 @@ This section showcases my foundational skills in building network topologies, co
 
 - **OSI Model**: This lab showcases PDU information in different devices as data gets transferred through the network. [[Link to file]](network-fundamentals/osi-model-lab/README.md/)
 
+- **Subnetting VLSM**: This lab is an excellent highlight of subnetting and routing a VLSM network. We configure each subnet individually across 4 LANs and then configure a point-to-point connection between two routers. Doing so allows efficient use of address space as well as reachability across the entire network. [[Link to file]](network-fundamentals/subnetting-vlsm-lab/README.md/)
+
 ***
 
 ### LAN Switching Technologies
