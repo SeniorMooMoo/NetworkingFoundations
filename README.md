@@ -39,6 +39,9 @@ This section focuses on my ability to configure and troubleshoot LAN switching p
 
 - **Multilayer Switching Lab**: In this lab, we will be changing the preset router-on-a-stick (ROAS) configuration to do inter-vlan routing via SVI's on SW2. [[Link to file]](lan-switching/multilayer-switching-lab/README.md/)
 
+- **DTP / VTP Lab**: In this lab, we go through a variety of VTP and DTP configurations throughout a network. [[Link to file]](lan-switching/dtpvtp-lab/README.md/)
+
+
 ***
 
 ### IP Connectivity
