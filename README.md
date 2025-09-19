@@ -35,6 +35,8 @@ This section focuses on my ability to configure and troubleshoot LAN switching p
 
 - **VLANs Lab**: In this lab, we are introduced to VLANs. We are using access ports (not trunk ports) in this lab. An access port belongs to a single VLAN. Upon configuring the network for all 3 VLANs, we should have connectivity across the network and our router doing all of our inter-VLAN routing. [[Link to file]](lan-switching/vlans-lab/README.md/)
 
+- **VLANs Trunking Lab**: This lab is a step up from the normal VLANs lab. We use 'trunk' mode to host multiple VLANs on a single physical conneciton between routers and switches. We logically separate them using subinterfaces on the router. For the switches we simply create and allow the VLANs to ensure each switch can receive traffic for all VLANs it is associated with. We also configure native VLANs in this lab. [[Link to file]](lan-switching/vlans-trunking-lab/README.md/)
+
 ***
 
 ### IP Connectivity
