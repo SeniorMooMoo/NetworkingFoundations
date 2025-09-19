@@ -37,6 +37,8 @@ This section focuses on my ability to configure and troubleshoot LAN switching p
 
 - **VLANs Trunking Lab**: This lab is a step up from the normal VLANs lab. We use 'trunk' mode to host multiple VLANs on a single physical conneciton between routers and switches. We logically separate them using subinterfaces on the router. For the switches we simply create and allow the VLANs to ensure each switch can receive traffic for all VLANs it is associated with. We also configure native VLANs in this lab. [[Link to file]](lan-switching/vlans-trunking-lab/README.md/)
 
+- **Multilayer Switching Lab**: In this lab, we will be changing the preset router-on-a-stick (ROAS) configuration to do inter-vlan routing via SVI's on SW2. [[Link to file]](lan-switching/multilayer-switching-lab/README.md/)
+
 ***
 
 ### IP Connectivity
