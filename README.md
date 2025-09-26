@@ -41,6 +41,7 @@ This section focuses on my ability to configure and troubleshoot LAN switching p
 
 - **DTP / VTP Lab**: In this lab, we go through a variety of VTP and DTP configurations throughout a network. [[Link to file]](lan-switching/dtpvtp-lab/README.md/)
 
+- **Analyzing STP Lab**: We are given a network topology in which STP is configured and we are just given basic information such as bridge IDs, interfaces, and MAC addresses. From this information, we mark out which interfaces in the network topology will be Root, Designated, or Non-designated. Finally, we verify our analysis through the CLI. [[Link to file]](lan-switching/analyzing-stp-lab/README.md/)
 
 ***
 
