@@ -43,6 +43,8 @@ This section focuses on my ability to configure and troubleshoot LAN switching p
 
 - **Analyzing STP Lab**: We are given a network topology in which STP is configured and we are just given basic information such as bridge IDs, interfaces, and MAC addresses. From this information, we mark out which interfaces in the network topology will be Root, Designated, or Non-designated. Finally, we verify our analysis through the CLI. [[Link to file]](lan-switching/analyzing-stp-lab/README.md/)
 
+- **Configuring STP Lab**: This lab is a hands-on application of the theories we have learned about PVST+. We do load balancing by using two different switches and setting them as primary in their VLAN and secondary in another. We do some experimenting by changing around priority values and costs. In the end, we configure portfast and BPDU-guard so that we can skip the forward delay timer when connecting to end hosts (that don't send BPDUs). [[Link to file]](lan-switching/configuring-stp-lab/README.md/)
+
 ***
 
 ### IP Connectivity
