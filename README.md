@@ -45,6 +45,8 @@ This section focuses on my ability to configure and troubleshoot LAN switching p
 
 - **Configuring STP Lab**: This lab is a hands-on application of the theories we have learned about PVST+. We do load balancing by using two different switches and setting them as primary in their VLAN and secondary in another. We do some experimenting by changing around priority values and costs. In the end, we configure portfast and BPDU-guard so that we can skip the forward delay timer when connecting to end hosts (that don't send BPDUs). [[Link to file]](lan-switching/configuring-stp-lab/README.md/)
 
+- **Rapid STP Lab**: In this lab, I determine the root bridge, port roles, and port states using the new rules I learned about RSTP (PVST+). We verify all this information using the CLI on each switch. There is an interesting setup here where an edge port is connected to a hub, we dive into that and what happens in that case. Finally, we manually configure all RSTP link-types on each interface. [[Link to file]](lan-switching/rapid-stp-lab/README.md/)
+
 ***
 
 ### IP Connectivity
