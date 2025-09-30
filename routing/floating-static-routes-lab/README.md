@@ -57,7 +57,7 @@ The router will select the route with the lowest AD as its routed path, since we
 
 We do the same configuration on R2, we can see that the OSPF route is selected.
 
-If we didn't change the AD of the static route, it would automatically be selected over OSPF because by default, static routes have an AD of 5.
+If we didn't change the AD of the static route, it would automatically be selected over OSPF because by default, static routes have an AD of 1.
 
 ### Let's shut down the connection between R1 and R2 and see if the routing table gets updated
 
