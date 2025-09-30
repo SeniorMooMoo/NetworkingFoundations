@@ -70,6 +70,8 @@ This section highlights my ability to route throughout a network.
 
 - **Troubleshooting Static Routes**: There are 1 misconfiguration(s) on each router in this lab. Our goal is to go into the CLI and use our skills to find and fix the misconfigurations. By the end of the lab, I will have fixed all of the misconfigurations and PC1 will be able to ping PC2. [[Link to file]](routing/troubleshooting-static-routes-lab/README.md)
 
+- **Floating Static Routes**: This lab shows us how routers select their routes via Administrative Distance (AD). We have 2 paths, through ISP A and through our own Enterprise. The route within our own Enterprise is routed via OSPF, then we configure a floating static route through ISP A in case the connection between our routers are severed. All steps are verified through CLI and simulation. [[Link to file]](routing/floating-static-routes-lab/README.md/)
+
 ***
 ### IP Services
 
