@@ -47,6 +47,8 @@ This section focuses on my ability to configure and troubleshoot LAN switching p
 
 - **Rapid STP Lab**: In this lab, I determine the root bridge, port roles, and port states using the new rules I learned about RSTP (PVST+). We verify all this information using the CLI on each switch. There is an interesting setup here where an edge port is connected to a hub, we dive into that and what happens in that case. Finally, we manually configure all RSTP link-types on each interface. [[Link to file]](lan-switching/rapid-stp-lab/README.md/)
 
+- **Configuring EtherChannel Lab**: This lab introduces us to configuring EtherChannel on Cisco Switches using the CLI. We configure layer 2 and layer 3 EtherChannels in LACP, PAgP, and static. We also configured the EtherChannel load-balancing method to use the source/destination IP addresses to determine which interfaces should be used, instead of the default (Source MAC). [[Link to file]](lan-switching/configuring-etherchannel-lab/README.md/)
+
 ***
 
 ### IP Connectivity
