@@ -72,6 +72,8 @@ This section highlights my ability to route throughout a network.
 
 - **Floating Static Routes**: This lab shows us how routers select their routes via Administrative Distance (AD). We have 2 paths, through ISP A and through our own Enterprise. The route within our own Enterprise is routed via OSPF, then we configure a floating static route through ISP A in case the connection between our routers are severed. All steps are verified through CLI and simulation. [[Link to file]](routing/floating-static-routes-lab/README.md/)
 
+- **Configuring EIGRP**: This a deep dive into EIGRP. We configure each router with EIGRP using Autonomous System # 100. Make interfaces not in use with EIGRP passive to save resources, and configure R1 to do unequal-cost load-balancing by adjusting the variance in its config. [[Link to file]](routing/configuring-eigrp-lab/README.md/)
+
 ***
 ### IP Services
 
