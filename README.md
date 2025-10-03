@@ -76,6 +76,8 @@ This section highlights my ability to route throughout a network.
 
 - **Configuring OSPF**: Our introduction to initial OSPF configurations. We configure OSPF on each router and view our configurations with a variety of show commands that give us insight into things like: Neighbors, LSDB, and details of the current OSPF settings on the specific interface. We also configure each interface that isn't connected to an OSPF neighbor as a passive-interface. Finally, we configure and advertise a default route across the network using OSPF. [[Link to file]](routing/configuring-ospf-lab/README.md/)
 
+- **Configuring OSPF 2**: We go a bit deeper into OSPF with this lab. We conigured OSPF in a different way than last lab, changed the reference bandwidth, advertised a default route, and took a brief look of some fields of the OSPF hello message. [[Link to file]](routing/configuring-ospf-2-lab/README.md/)
+
 ***
 ### IP Services
 
